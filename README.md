@@ -1,7 +1,7 @@
 
 # Low-Frequency Generative Augmentation for Driver Distraction Recognition
 
-This repository contains the official PyTorch implementation for the paper:
+This repository contains the official PyTorch implementation for the paper accepted to the 2026 IEEE International Conference on Robotics and Automation (ICRA 2026):
 
 **Train Once, Apply Broadly: Low-Frequency Generative Augmentation for Driver Distraction Recognition under Photometric Shifts**
 
